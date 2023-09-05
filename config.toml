@@ -1,4 +1,4 @@
-baseURL = "https://nextdooroldwang.github.io"
+baseURL = "https://nextdooroldwang.github.io/blog"
 title = "Puppet"
 
 theme = "puppet"
