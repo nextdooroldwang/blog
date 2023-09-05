@@ -1,8 +1,7 @@
-baseURL = "http://localhost:1313/subdir"
+baseURL = "http://localhost:1313"
 title = "Puppet"
 
 theme = "puppet"
-themesDir = "../.."
 
 copyright = ""
 paginate = 3
